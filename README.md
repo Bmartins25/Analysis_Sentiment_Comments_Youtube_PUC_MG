@@ -1,4 +1,4 @@
-# Análise_Sentimento_Coment-rios_Youtube
+# Análise_Sentimento_Comentarios_Youtube
 
 ---
 
